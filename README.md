@@ -7,11 +7,7 @@ Make sure your have installed GIT and added GIT to path.
   git clone https://github.com/prakashsakari/react-ecom-app.git
 ```
 
-Go to the project directory
 
-```bash
-  cd react-ecom-app
-```
 
 Install dependencies
 
