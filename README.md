@@ -4,7 +4,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have installed GIT and added GIT to path.
 
 ```bash
-  git clone https://github.com/prakashsakari/react-ecom-app.git
+  git clone https://github.com/ADDY69O/BookShala.git
 ```
 
 
